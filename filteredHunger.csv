@@ -1,5 +1,5 @@
 Entity,Code,Year,Global Hunger Index (2021),Donations
-Afghanistan,AFG,2021,28.3,
+Afghanistan,AFG,2021,28.3,https://www.wfpusa.org/countries/afghanistan/#:~:text=How%20We%20Help%20Afghans%20Survive%20Hunger&text=In%202022%2C%20WFP%20has%20assisted,in%20cash%20and%20commodity%20vouchers.&text=WFP's%20school%20meals%20serve%20as%20a%20lifeline%20for%20the%20children%20of%20Afghanistan.
 Albania,ALB,2021,6.2,
 Algeria,DZA,2021,6.9,
 Angola,AGO,2021,26.0,
@@ -14,12 +14,12 @@ Bosnia and Herzegovina,BIH,2021,2.5,
 Botswana,BWA,2021,23.2,
 Brazil,BRA,2021,2.5,
 Bulgaria,BGR,2021,6.1,
-Burkina Faso,BFA,2021,24.5,
+Burkina Faso,BFA,2021,24.5,https://www.actionagainsthunger.org/location/africa/burkina-faso/
 Burundi,BDI,2021,42.5,
 Cambodia,KHM,2021,17.0,
-Cameroon,CMR,2021,18.6,
+Cameroon,CMR,2021,18.6,https://www.actionagainsthunger.org/location/africa/cameroon/
 Cape Verde,CPV,2021,10.8,
-Central African Republic,CAF,2021,43.0,
+Central African Republic,CAF,2021,43.0,https://www.actionagainsthunger.org/location/africa/central-african-republic/
 Chad,TCD,2021,39.6,https://www.actionagainsthunger.org/location/africa/chad/
 Chile,CHL,2021,2.5,
 China,CHN,2021,2.5,
@@ -30,7 +30,7 @@ Costa Rica,CRI,2021,5.3,
 Cote d'Ivoire,CIV,2021,22.3,
 Croatia,HRV,2021,2.5,
 Cuba,CUB,2021,2.5,
-Democratic Republic of Congo,COD,2021,39.0,
+Democratic Republic of Congo,COD,2021,39.0,https://www.actionagainsthunger.org/location/africa/democratic-republic-congo/
 Djibouti,DJI,2021,27.4,
 Dominican Republic,DOM,2021,8.0,
 Ecuador,ECU,2021,14.0,
@@ -38,7 +38,7 @@ Egypt,EGY,2021,12.5,
 El Salvador,SLV,2021,8.9,
 Estonia,EST,2021,2.5,
 Eswatini,SWZ,2021,17.0,
-Ethiopia,ETH,2021,24.1,
+Ethiopia,ETH,2021,24.1,https://www.actionagainsthunger.org/location/africa/ethiopia/
 Fiji,FJI,2021,8.6,
 Gabon,GAB,2021,16.6,
 Gambia,GMB,2021,17.6,
@@ -53,18 +53,18 @@ Honduras,HND,2021,12.8,
 India,IND,2021,27.5,
 Indonesia,IDN,2021,18.0,
 Iran,IRN,2021,7.7,
-Iraq,IRQ,2021,22.8,
+Iraq,IRQ,2021,22.8,https://www.actionagainsthunger.org/location/middle-east/iraq/
 Jamaica,JAM,2021,8.6,
-Jordan,JOR,2021,8.3,
+Jordan,JOR,2021,8.3,https://www.actionagainsthunger.org/location/middle-east/jordan/
 Kazakhstan,KAZ,2021,6.4,
-Kenya,KEN,2021,23.0,
+Kenya,KEN,2021,23.0,https://www.actionagainsthunger.org/location/africa/kenya/
 Kuwait,KWT,2021,2.5,
 Kyrgyzstan,KGZ,2021,8.6,
 Laos,LAO,2021,19.5,
 Latvia,LVA,2021,2.5,
-Lebanon,LBN,2021,9.7,
+Lebanon,LBN,2021,9.7,https://www.actionagainsthunger.org/location/middle-east/lebanon/
 Lesotho,LSO,2021,27.4,
-Liberia,LBR,2021,33.3,
+Liberia,LBR,2021,33.3,https://www.actionagainsthunger.org/location/africa/liberia/
 Lithuania,LTU,2021,2.5,
 Madagascar,MDG,2021,36.3,
 Malawi,MWI,2021,21.3,
@@ -108,7 +108,7 @@ South Sudan,SSD,2021,42.5,
 Sri Lanka,LKA,2021,16.0,
 Sudan,SDN,2021,25.1,
 Suriname,SUR,2021,10.4,
-Syria,SYR,2021,42.5,
+Syria,SYR,2021,42.5,https://www.actionagainsthunger.org/location/middle-east/syria/
 Tajikistan,TJK,2021,15.0,
 Tanzania,TZA,2021,24.7,
 Thailand,THA,2021,11.7,
@@ -124,6 +124,6 @@ Uruguay,URY,2021,2.5,
 Uzbekistan,UZB,2021,5.9,
 Venezuela,VEN,2021,22.2,
 Vietnam,VNM,2021,13.6,
-Yemen,YEM,2021,45.1,
+Yemen,YEM,2021,45.1,https://www.actionagainsthunger.org/location/middle-east/yemen/
 Zambia,ZMB,2021,27.5,
 Zimbabwe,ZWE,2021,27.5,

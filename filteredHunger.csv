@@ -1,4 +1,4 @@
-Entity,Code,Year,Global Hunger Index (2021)
+Entity,Code,Year,Global Hunger Index (2021),Donations
 Afghanistan,AFG,2021,28.3
 Albania,ALB,2021,6.2
 Algeria,DZA,2021,6.9
@@ -20,7 +20,7 @@ Cambodia,KHM,2021,17.0
 Cameroon,CMR,2021,18.6
 Cape Verde,CPV,2021,10.8
 Central African Republic,CAF,2021,43.0
-Chad,TCD,2021,39.6
+Chad,TCD,2021,39.6,https://www.actionagainsthunger.org/location/africa/chad/
 Chile,CHL,2021,2.5
 China,CHN,2021,2.5
 Colombia,COL,2021,8.9
